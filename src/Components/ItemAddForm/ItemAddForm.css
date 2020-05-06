@@ -1,0 +1,14 @@
+.item-add-form {
+    margin-top: 10px;
+    position: relative;
+    flex: 1 1 auto;
+
+}
+
+.item-add-form input {
+    margin-right: 3px;
+}
+
+.item-add-form button {
+    max-width: 130px;
+}

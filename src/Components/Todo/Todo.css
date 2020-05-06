@@ -1,0 +1,8 @@
+.top-panel {
+    justify-content: space-between;
+    display: block;
+}
+
+.main {
+    max-width: 900px;
+}
